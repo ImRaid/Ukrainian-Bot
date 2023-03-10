@@ -11,6 +11,7 @@ const {ErrorBuilder} = require(`./handlers/errorBuilder`)
 const{EmbedBuilder} = require(`discord.js`)
 const db = require(`quick.db`)
 const ascii = require('ascii-table')
+const express = require('express');
 let table = new ascii("Commands");
 const PlayerMap = new Map()
 const client = new discord.Client({
@@ -41,6 +42,19 @@ const client = new discord.Client({
         status: 'idle'
       },
 })
+
+const app = express();
+
+const discord_api = axios.create({
+  baseURL: 'https://discord.com/api/',
+  timeout: 3000,
+  headers: {
+	"Access-Control-Allow-Origin": "*",
+	"Access-Control-Allow-Methods": "GET, POST, PUT, DELETE",
+	"Access-Control-Allow-Headers": "Authorization",
+	"Authorization": `Bot ${TOKEN}`
+  }
+});
 
 client.distube = new DisTube(client, {
   leaveOnStop: false,
