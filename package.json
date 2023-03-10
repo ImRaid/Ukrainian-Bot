@@ -31,5 +31,5 @@
     "rss-parser": "^3.12.0",
     "weather-js": "^2.0.0",
     "website-to-json": "^1.0.22"
-  },
+  }
 }
