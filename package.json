@@ -1,15 +1,4 @@
 {
-  "scripts": {
-    "serve": "nodemon index.js"
-  },
-  "nodemonConfig": {
-    "ext": "js",
-    "ignore": [
-      "*.test.ts",
-      "db/*"
-    ],
-    "delay": "2"
-  },
   "dependencies": {
     "@discordjs/opus": "^0.8.0",
     "@distube/soundcloud": "^1.3.0",
@@ -40,13 +29,7 @@
     "react": "^18.2.0",
     "request": "^2.88.2",
     "rss-parser": "^3.12.0",
-    "tweetnacl": "^1.0.3",
     "weather-js": "^2.0.0",
     "website-to-json": "^1.0.22"
   },
-  "devDependencies": {
-    "@babel/cli": "^7.21.0",
-    "@babel/core": "^7.21.0",
-    "@babel/preset-react": "^7.18.6"
-  }
 }
