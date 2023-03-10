@@ -1,4 +1,4 @@
-const env = require('dotenv').config()
+require('dotenv').config()
 const discord = require('discord.js')
 const { GatewayIntentBits, Partials, DiscordAPIError, ButtonStyle } = require('discord.js')
 const fs = require('fs')
