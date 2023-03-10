@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "opusscript": "^0.0.8",
+    "@discordjs/voice": "^0.14.0",
     "@gonetone/get-youtube-id-by-url": "^1.0.0",
     "discord.js": "^14.7.1"
   }
