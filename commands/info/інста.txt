@@ -1,0 +1,51 @@
+const Discord = require('discord.js'); 
+const axios = require('axios')
+const { ErrorBuilder } = require('../../handlers/errorBuilder.js')
+const toJSON = require('website-to-json')
+
+module.exports = {
+    desc:"Інформація про вказаний вами Instagram аккаунт.",
+    run: async (client, message, args) => {
+      const name = args.join(" ");
+      console.log(name)
+      if (!name) return ErrorBuilder(message,'відповідь',null,'Вкажіть нік користувача!')
+      const url = `https://instagram.com/${name}`; 
+     
+      let res;
+     
+      toJSON.extractData(url, {
+        fields: ['data'],
+        parse: function($) {
+
+        }
+      })
+  //  } catch (e) {
+  //      return ErrorBuilder(message,"відповідь",null,"Акаунт не знайдено.")
+ //   }
+
+    const embed = new Discord.EmbedBuilder()
+    .setColor("Green")
+    .setTitle(account.full_name)
+    .setURL(`https://instagram.com/${name}`)
+    .setThumbnail(account.profile_pic_url_hd)
+    .addFields(
+      {name:"**Нікнейм:**",value:`${account.username}`},
+      {name:"**Ім'я:**",value:`${account.full_name}`},
+      {name:`**Біографія:**`,value:`${account.biography.length == 0 ? "Відсутння" : account.biography}`}
+    )
+    .addFields(
+      {name:`**Публікації:**`,value:`${account.edge_owner_to_timeline_media.count}`},
+      {name:`**Читачі:**`,value:`${account.edge_followed_by.count}`},
+      {name:`**Слідкування:**`,value:`${account.edge_follow.count}`}
+    )
+    .addFields(
+      {name:"**Приватність**",value:`${account.is_private ? "🔐" : "🔓"}`}
+    )
+   .setFooter({text:`Задав ${message.author.tag}`,iconURL:message.author.displayAvatarURL({dynamic: true})})
+    await message.reply({embeds:[embed]})
+   
+    
+  
+
+    }
+}

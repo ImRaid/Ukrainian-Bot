@@ -1,0 +1,862 @@
+[
+    {
+        "title": "м. Київ",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Житомирська область",
+        "type": "oblast",
+        "is_alert": false 
+    },
+    {
+        "title": "Харківська область",
+        "type": "oblast",
+        "is_alert": false 
+    },
+    {
+        "title": "Вінницька область",
+        "type": "oblast",
+        "is_alert": false 
+    },
+    {
+        "title": "Чернігівська область",
+        "type": "oblast",
+        "is_alert": false 
+    },
+    {
+        "title": "Дніпропетровська область",
+        "type": "oblast",
+        "is_alert": false 
+    },
+    {
+        "title": "Черкаська область",
+        "type": "oblast",
+        "is_alert": false 
+    },
+    {
+        "title": "Волинська область",
+        "type": "oblast",
+        "is_alert": false 
+    },
+    {
+        "title": "Київська область",
+        "type": "oblast",
+        "is_alert": false 
+    },
+    {
+        "title": "Миколаївська область",
+        "type": "oblast",
+        "is_alert": false 
+    },
+    {
+        "title": "Рівненська область",
+        "type": "oblast",
+        "is_alert": false 
+    },
+    {
+        "title": "Сумська область",
+        "type": "oblast",
+        "is_alert": false 
+    },
+    {
+        "title": "Тернопільська область",
+        "type": "oblast",
+        "is_alert": false 
+    },
+    {
+        "title": "Краматорський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Кіровоградська область",
+        "type": "oblast",
+        "is_alert": false 
+    },
+    {
+        "title": "Хмельницька область",
+        "type": "oblast",
+        "is_alert": false 
+    },
+    {
+        "title": "Запорізька область",
+        "type": "oblast",
+        "is_alert": false 
+    },
+    {
+        "title": "Одеська область",
+        "type": "oblast",
+        "is_alert": false 
+    },
+    {
+        "title": "Полтавська область",
+        "type": "oblast",
+        "is_alert": false 
+    },
+    {
+        "title": "Львівська область",
+        "type": "oblast",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Кривий Ріг",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Криворізька територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Івано-Франківська область",
+        "type": "oblast",
+        "is_alert": false 
+    },
+    {
+        "title": "Чернівецька область",
+        "type": "oblast",
+        "is_alert": false 
+    },
+    {
+        "title": "Ізюмський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Бахмутська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Васильків",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Васильківська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Білоцерківська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Біла Церква",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Донецька область",
+        "type": "oblast",
+        "is_alert": false 
+    },
+    {
+        "title": "Покровський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Уманська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Бахмутський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Закарпатська область",
+        "type": "oblast",
+        "is_alert": false 
+    },
+    {
+        "title": "Лубенська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Лубни",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Полтавська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Полтава",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Старокостянтинів",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Старокостянтинівська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Миколаїв",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Миколаївська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Торецька територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Кропивницький район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Першотравенська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Нікопольська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Нікополь",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Першотравенськ",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Одеський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Черкаси",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Черкаська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Добропільська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Херсонська область",
+        "type": "oblast",
+        "is_alert": false 
+    },
+    {
+        "title": "Сумська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Суми",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Первомайська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Краматорська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Макарівська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Краматорськ",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Миргородська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Бориспіль",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Броварська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Миргород",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Бориспільська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Бровари",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Вознесенськ",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Коростенський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Первомайськ",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Миронівська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Вознесенський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Синельниківський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Фастівська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Вознесенська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Житомирський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Дружківська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Фастів",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Слов'янська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Запорізький район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Слов'янськ",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Кременчук",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Ніжинський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Ватутіне",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Ватутінська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Кременчуцька територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Пологівський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Дніпровська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Дніпро",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Лозівський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Покровська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Обухів",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Узинська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Шепетівський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Пирятинська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Сумський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Харківський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Жашківська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Пирятин",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Павлоградський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Голованівський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Обухівська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Подільський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Охтирка",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Мар'їнська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Мелітополь",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Куп’янський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Святогірська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Рівне",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Бородянська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Роздільнянський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Запорізька територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Шосткинська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Болградський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Прилуцький район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Олешківська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Березівський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Очаківська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Смілянська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Очаків",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Рівненська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Первомайський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Ізмаїльський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Сквирська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Шостка",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Мелітопольська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Маріупольський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Охтирська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Білгород-Дністровський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Запоріжжя",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Коростень",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Луганська область",
+        "type": "oblast",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Житомир",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Курахівська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Черкаський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Новоград-Волинський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Костянтинівська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Переяславська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Новоукраїнський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Уманський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Коростенська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Переяслав",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Шосткинський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Великоновосілківська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Чернігівський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Радомишльська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Вугледарська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Звенигородський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Конотоп",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Вишгородська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Гребінківська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Сарненський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Бердянський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Миколаївський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Гостомелська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Дубровицька територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Українська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Сарненська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Воскресенська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Маріуполь",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Чугуївський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Охтирський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Житомирська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Сарни",
+        "type": "city",
+        "is_alert": false 
+    },
+    {
+        "title": "Широківська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Славутицька територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Золотоніський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Конотопська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Волноваський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Донецький район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "Маріупольська територіальна громада",
+        "type": "hromada",
+        "is_alert": false 
+    },
+    {
+        "title": "Вараський район",
+        "type": "raion",
+        "is_alert": false 
+    },
+    {
+        "title": "м. Славутич",
+        "type": "city",
+        "is_alert": false 
+    }
+]

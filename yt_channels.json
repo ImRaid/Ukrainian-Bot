@@ -1,0 +1,22 @@
+{
+ "1060995544861913149": {
+  "channels": [
+   {
+    "channel_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCijC6NgKtkPwmpWVMWoN-yA",
+    "channel_name": "Ranset ꑭ",
+    "lastvideo_url": null,
+    "remove_channel_url": "https://youtube.com/channel/UCijC6NgKtkPwmpWVMWoN-yA",
+    "message": " Привіт, {channel} випустив нове відео {name}! Іди глянь його по посиланню: {url}!",
+    "channel": "1074395870100979733"
+   },
+   {
+    "channel_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBR8-60-B28hp2BmDPdntcQ",
+    "channel_name": "YouTube",
+    "lastvideo_url": "https://www.youtube.com/watch?v=UrZhrchVhSg",
+    "remove_channel_url": "https://youtube.com/channel/UCBR8-60-B28hp2BmDPdntcQ",
+    "message": " Привіт, {channel} випустив нове відео {name}! Іди глянь його по посиланню: {url}!",
+    "channel": "1074395870100979733"
+   }
+  ]
+ }
+}

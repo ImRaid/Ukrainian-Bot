@@ -1,6 +1,6 @@
 const Discord = require('discord.js')
 const { ButtonBuilder, ActionRowBuilder, EmbedBuilder } = require('discord.js')
-
+const {version} = require("../../settings/info.json")
 
 let os = require('os');
 let cpuStat = require("cpu-stat");
@@ -9,6 +9,7 @@ let cpuStat = require("cpu-stat");
 
 module.exports = {
   name: 'бот',
+  desc: "Інформація про мене(бота).",
   run: async(client, message, args, prefix) => {
       let cpuLol;
         cpuStat.usagePercent(async function (err, percent, seconds) {
@@ -41,6 +42,7 @@ let guilds = client.guilds.cache.size;
    )
    .addFields(
     { name: `Команда допомоги:`, value: `ua! допомога` },
+    { name:"Версія:",value:`\`${version}\``}
    )
    .addFields(
     { name: `Серверів:`, value: `${guilds}` },
